@@ -39,7 +39,7 @@
     "cucumber-html-reporter": "5.5.0",
     "dayjs": "1.11.5",
     "deep-equal-in-any-order": "2.0.0",
-    "dotenv": "16.0.2",
+    "dotenv": "16.0.3",
     "node-fetch": "3.2.10",
     "uuid": "8.3.2"
   },
